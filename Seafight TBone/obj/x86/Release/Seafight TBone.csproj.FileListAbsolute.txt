@@ -1,0 +1,6 @@
+C:\Users\Grietje\AppData\Local\Temporary Projects\Seafight TBone\bin\Release\Seafight TBone.exe
+C:\Users\Grietje\AppData\Local\Temporary Projects\Seafight TBone\bin\Release\Seafight TBone.pdb
+C:\Users\Grietje\AppData\Local\Temporary Projects\Seafight TBone\obj\x86\Release\Seafight_TBone.Properties.Resources.resources
+C:\Users\Grietje\AppData\Local\Temporary Projects\Seafight TBone\obj\x86\Release\Seafight TBone.csproj.GenerateResource.Cache
+C:\Users\Grietje\AppData\Local\Temporary Projects\Seafight TBone\obj\x86\Release\Seafight TBone.exe
+C:\Users\Grietje\AppData\Local\Temporary Projects\Seafight TBone\obj\x86\Release\Seafight TBone.pdb

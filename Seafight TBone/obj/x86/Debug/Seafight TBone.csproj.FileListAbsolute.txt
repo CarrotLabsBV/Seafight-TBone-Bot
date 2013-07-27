@@ -1,0 +1,14 @@
+C:\Users\Grietje\AppData\Local\Temporary Projects\Seafight TBone\bin\Debug\Seafight TBone.exe
+C:\Users\Grietje\AppData\Local\Temporary Projects\Seafight TBone\bin\Debug\Seafight TBone.pdb
+C:\Users\Grietje\AppData\Local\Temporary Projects\Seafight TBone\obj\x86\Debug\Seafight_TBone.Form1.resources
+C:\Users\Grietje\AppData\Local\Temporary Projects\Seafight TBone\obj\x86\Debug\Seafight_TBone.Properties.Resources.resources
+C:\Users\Grietje\AppData\Local\Temporary Projects\Seafight TBone\obj\x86\Debug\Seafight TBone.csproj.GenerateResource.Cache
+C:\Users\Grietje\AppData\Local\Temporary Projects\Seafight TBone\obj\x86\Debug\Seafight TBone.exe
+C:\Users\Grietje\AppData\Local\Temporary Projects\Seafight TBone\obj\x86\Debug\Seafight TBone.pdb
+C:\Users\Grietje\documents\visual studio 2010\Projects\Seafight TBone\Seafight TBone\obj\x86\Debug\Seafight TBone.exe
+C:\Users\Grietje\documents\visual studio 2010\Projects\Seafight TBone\Seafight TBone\obj\x86\Debug\Seafight TBone.pdb
+C:\Users\Grietje\documents\visual studio 2010\Projects\Seafight TBone\Seafight TBone\bin\Debug\Seafight TBone.exe
+C:\Users\Grietje\documents\visual studio 2010\Projects\Seafight TBone\Seafight TBone\bin\Debug\Seafight TBone.pdb
+C:\Users\Grietje\documents\visual studio 2010\Projects\Seafight TBone\Seafight TBone\obj\x86\Debug\Seafight_TBone.Form1.resources
+C:\Users\Grietje\documents\visual studio 2010\Projects\Seafight TBone\Seafight TBone\obj\x86\Debug\Seafight_TBone.Properties.Resources.resources
+C:\Users\Grietje\documents\visual studio 2010\Projects\Seafight TBone\Seafight TBone\obj\x86\Debug\Seafight TBone.csproj.GenerateResource.Cache
